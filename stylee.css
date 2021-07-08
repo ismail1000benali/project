@@ -1,0 +1,66 @@
+.img12{
+  width:100px ;
+  height: 100px; 
+
+}
+.body1{
+
+  margin-left:  200px;
+  margin-right: 200px;
+ }
+.carte1{
+  margin-left:500px;
+
+}
+.carte2{
+  margin-left:700px;
+  display: inline;
+
+}
+#tes1{
+  background-color:aquamarine;
+  width: 100%;
+  
+}
+.tex{
+  display:inline;
+  margin-left: 600px ;
+  margin-top: -110px;
+}
+.ps{
+  text-align: center;
+  margin-top:50px;
+}
+.p1{
+  text-align: center;
+  color:aquamarine;
+}
+.nav1{
+  margin-left:500px;
+  
+}
+.p2{
+  
+  color: aquamarine;
+  margin-left: 250px;
+  margin-right: 250px;
+ }
+ .p3{
+   margin-right: 250px;
+   margin-left: 250px;
+ }
+.carte3{
+  margin-left: 250px ;
+
+}
+.carte4 {
+  margin-left: 250px;
+  margin-top: 50px;
+}
+.b1{
+  margin-left: 200px;
+  
+ margin-top: -50px;
+}
+
+
